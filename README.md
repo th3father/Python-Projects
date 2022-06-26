@@ -18,7 +18,7 @@ A tool for getting basic info about domains and ips, including:
 ### Scanner
 Ip/Port scanner.
   - Accepts ip range and CIDR.
-  - Uses nmap top1000 and top20 ports, also it accepts ranges of IPs.
+  - Uses nmap top1000 and top20 ports, also accepts ranges of IPs.
   - Accepts custom timeout amount for creating scan strategy.
  
  ### Searcher
