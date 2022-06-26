@@ -30,7 +30,7 @@ Ip/Port scanner.
   
  ### WebHeaderChecker
  Requests the headers from target websites and checks for the availability of interesting headers, like:
-  *Strict-Transport-Security*
-  *Content-Security-Policy*
-  *X-Frame-Options*
-  *Server*
+  - *Strict-Transport-Security*
+  - *Content-Security-Policy*
+  - *X-Frame-Options*
+  - *Server*
